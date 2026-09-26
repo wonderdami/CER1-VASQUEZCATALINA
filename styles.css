@@ -1,0 +1,32 @@
+body {
+  background-image: url('img/fondo.jpg'); 
+  background-size: cover;                 
+  background-position: center;           
+  background-repeat: no-repeat;           
+  background-attachment: fixed;
+  }
+.carousel-item img {
+    height: 400px;
+    object-fit: contain; 
+  }
+.navbar-color {
+    background-color: #6d4f2d;
+  }
+  .btn-color {
+    background-color: #6d4f2d;
+    border-color: #6d4f2d;   
+    color: #ffffff;          
+  }
+  .card-color {
+    background-color: #a17d54; /* Color de fondo del container (ej: azul/gris muy claro) */
+    color: #ffffff;            /* Color del texto general */
+  }
+  .footer-color {
+    background-color: #6d4f2d;  
+    color: #ffffff; 
+  }
+  .text-main {
+    background-color:#fae7c5;      
+    border-radius: 16px;                     
+    padding: 2rem;                              
+  }
